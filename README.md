@@ -1,6 +1,6 @@
 # SORT: Simple Online and Realtime Tracking 구현
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/SORT-Implementation/blob/main/SORT_Multi_object_tracking.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](SORT_Multi_object_tracking.ipynb)
 
 ### 전체 7개 시퀀스 결과 - 이미지 클릭 시 유튜브 영상 재생
 
